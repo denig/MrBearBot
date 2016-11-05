@@ -17,3 +17,5 @@ Commands:
 .commands - get a link to this page :)
 
 Talk to bot by putting @Mr. Bear Bot in chat message
+
+You can submit request for *features and issues* under **Issues**
