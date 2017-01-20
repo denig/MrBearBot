@@ -14,6 +14,8 @@ Commands:
 
 **.roundhouse** - get a Chuck Norris joke 
 
+**.img [tag]** - get image for a tag 
+
 **.commands** - get a link to this page :)
 
 Talk to bot by putting **@Mr. Bear Bot** in chat message
