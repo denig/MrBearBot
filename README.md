@@ -12,6 +12,12 @@ Commands:
 
 **.spin** - find out your luck for 1 point, possible winnings three apples(2 points), three lemons(4 points), three pears(8 points), three cherries(16 points)
 
+**.theme** - get current theme
+
+**.themeon [theme]** - set theme to [theme]
+
+**.themeoff** - clear theme
+
 **.roundhouse** - get a Chuck Norris joke 
 
 **.img [tag]** - get image for a tag 
