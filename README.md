@@ -10,7 +10,7 @@ Commands:
 
 **.move** - move one place in the DJ waiting list, it will cost you 5 points
 
-**.spin** - find out your luck for 1 point, possible winnings three apples(2 points), three lemons(4 points), three pears(8 points), three cherries(16 points)
+**.spin** - find out your luck for 1 point, possible winnings three apples(2 points), three lemons(4 points), three pears(8 points), two pears(5 points, in order[pear pear something]) , three cherries(16 points), two cherries(10 points, in order[cherrie cherrie something])
 
 **.theme** - get current theme
 
@@ -21,6 +21,10 @@ Commands:
 **.roundhouse** - get a Chuck Norris joke 
 
 **.img [tag]** - get image for a tag 
+
+**.escortme** - bot weill remove you after next spin(still not stable)
+
+**.gif [tag]** - comming soon
 
 **.commands** - get a link to this page :)
 
