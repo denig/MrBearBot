@@ -22,7 +22,7 @@ Commands:
 
 **.img [tag]** - get image for a tag 
 
-**.escortme** - bot weill remove you after next spin(still not stable)
+**.escortme** - bot will remove you after next spin(still not stable)
 
 **.gif [tag]** - comming soon
 
